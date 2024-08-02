@@ -6,9 +6,6 @@ Welcome to the **Integrated 7G Firewall for WordPress Template** repository! Thi
 
 - **Advanced 7G Firewall Rules:** Implemented the latest 7G Firewall ruleset to protect against various web-based threats, including SQL injection, cross-site scripting (XSS), and other malicious attacks.
 - **Easy Integration:** Designed to work out-of-the-box with WordPress themes, ensuring a simple setup process without compromising website performance.
-- **Customizable Security Settings:** Provides flexibility to adjust security levels and customize firewall rules according to specific website needs.
-- **Regular Updates:** Keeps up with the latest security threats by providing regular updates to the firewall ruleset.
-- **Comprehensive Logging:** Detailed logging and reporting features to help website administrators monitor and analyze potential threats.
 
 ## Installation
 
